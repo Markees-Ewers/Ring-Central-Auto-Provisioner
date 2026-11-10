@@ -1,0 +1,4 @@
+opencv-contrib-python>=4.8
+pygrabber>=0.2
+pytesseract>=0.3.13
+selenium>=4.27
